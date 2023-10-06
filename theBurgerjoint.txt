@@ -1,1 +1,4 @@
 "This my favorite food place to go to" 
+Menu:
+1. The Whopping burger 
+2. The Smashing burger
